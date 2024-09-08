@@ -1,7 +1,9 @@
 <h1>Hello Visitors, This is Kapiushon ✋🏼</h1>
 
 ### <i>Explanation<i/> 📄
-<p>Well, this is my second official site that I design and build, I was hoping that I would be able to learn React and I did, and I even designed a site for myself using React as a resume and portfolio.</p>
+<p>Well, this is my second official site that I design and build, I was hoping that I would be able to learn React and I did, and I even designed a site for myself using React as a resume and portfolio. <br/>
+Because I mastered responsive design, I no longer made this site responsive, and you can see it on the Phoenix site.
+I dealt with it as an app designed for mobile.</p>
 
 <hr/>
 
