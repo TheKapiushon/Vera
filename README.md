@@ -1,8 +1,18 @@
-# React + Vite
+<h1>Hello Visitors, This is Kapiushon ✋🏼</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### <i>Explanation<i/> 📄
+<p>Well, this is my second official site that I design and build, I was hoping that I would be able to learn React and I did, and I even designed a site for myself using React as a resume and portfolio.</p>
 
-Currently, two official plugins are available:
+<hr/>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### <i>Tools<i/> 🛠
+<p>I tried to advance this project with the most up-to-date facilities and tools in the world of programming and front-end programming, and I used the following tools in it:</p>
+    🔸 Tailwind <br/>
+    🔸 React JS <br/>
+    🔸 Vite
+
+<hr/>
+
+### <i>Future<i/> 🔮
+<p>In the future, after completing Rocket, I will go to NextJS, I will not stop on the way of programming, Sadrasad Vera is not my last project, and I will definitely go further and further in the future.
+I think of becoming a full-stack developer as a vision, but I move forward with small goals.</p>
